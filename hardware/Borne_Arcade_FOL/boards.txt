@@ -1,0 +1,17 @@
+##############################################################
+
+Borne_Arcade_FOL.name=Borne_Arcade_FOL
+Borne_Arcade_FOL.upload.protocol=avr109
+Borne_Arcade_FOL.upload.maximum_size=28672
+Borne_Arcade_FOL.upload.speed=57600
+Borne_Arcade_FOL.upload.disable_flushing=true
+Borne_Arcade_FOL.bootloader.path=caterina
+Borne_Arcade_FOL.bootloader.file=Caterina-Borne_Arcade_FOL.hex
+Borne_Arcade_FOL.build.mcu=atmega32u4
+Borne_Arcade_FOL.build.f_cpu=16000000L
+Borne_Arcade_FOL.build.vid=0x1B4F
+Borne_Arcade_FOL.build.pid=0x2B75
+Borne_Arcade_FOL.build.core=arduino
+Borne_Arcade_FOL.build.variant=Borne_Arcade_FOL
+
+##############################################################
