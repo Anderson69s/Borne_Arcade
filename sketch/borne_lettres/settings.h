@@ -59,7 +59,7 @@ int keyCodes[NUM_INPUTS] = {
                                            // recommended values are between 2 and 20
                                            // default value is 5
 
-#define SWITCH_THRESHOLD_CENTER_BIAS 9   // number between 1 and 99
+#define SWITCH_THRESHOLD_CENTER_BIAS 7   // number between 1 and 99
                                           // larger value makes it easier to "release" keys, but harder to "press"
                                           // smaller value makes it easier to "press" keys, but harder to "release"
                                           // recommended values are between 30 and 70
