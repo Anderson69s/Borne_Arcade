@@ -1,4 +1,3 @@
-
 #define BUFFER_LENGTH    3     // 3 bytes gives us 24 samples
 #define NUM_INPUTS       26    // 6 on the front + 12 on the back
 #define TARGET_LOOP_TIME 400 // (1/60 seconds) / 24 samples = 694 microseconds per sample
